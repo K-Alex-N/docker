@@ -1,9 +1,11 @@
 import time
 
-# a = input()
-# print(a*3)
+
+def sum_func(a, b):
+    return a + b
 
 
-for i in range(100):
-    time.sleep(1)
-    print(i)
+if __name__ == '__main__':
+    for i in range(100):
+        time.sleep(1)
+        print(i)
