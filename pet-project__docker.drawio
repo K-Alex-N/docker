@@ -52,7 +52,13 @@
         <mxCell id="KinI6GjtYEJDe6Mma5tV-14" value="&lt;strong&gt;httpx:&lt;/strong&gt; Современная альтернатива &lt;code&gt;requests&lt;/code&gt;, поддерживающая как синхронные, так и асинхронные запросы. Может быть полезна для тестирования асинхронных API." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="753" y="121" width="233.17" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="KinI6GjtYEJDe6Mma5tV-15" value="уведомления на почту&amp;nbsp; &amp;nbsp;или логирование какое нибудь супер простое&amp;nbsp; &amp;nbsp;или просто слать строчку а кафка потом это отображает (тек что то супер простое)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="KinI6GjtYEJDe6Mma5tV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KinI6GjtYEJDe6Mma5tV-15" target="KinI6GjtYEJDe6Mma5tV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KinI6GjtYEJDe6Mma5tV-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KinI6GjtYEJDe6Mma5tV-15" target="KinI6GjtYEJDe6Mma5tV-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KinI6GjtYEJDe6Mma5tV-15" value="уведомления на почту&amp;nbsp; &amp;nbsp;или логирование какое нибудь супер простое&amp;nbsp; &amp;nbsp;или просто слать строчку а кафка потом это отображает (тек что то супер простое)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;или отправка сообщений в телеграмм&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1308" y="447" width="463" height="360" as="geometry" />
         </mxCell>
         <mxCell id="KinI6GjtYEJDe6Mma5tV-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="KinI6GjtYEJDe6Mma5tV-15">
@@ -90,6 +96,15 @@
             <mxPoint x="1065" y="493" as="sourcePoint" />
             <mxPoint x="1467" y="717" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KinI6GjtYEJDe6Mma5tV-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KinI6GjtYEJDe6Mma5tV-28" target="KinI6GjtYEJDe6Mma5tV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KinI6GjtYEJDe6Mma5tV-28" value="БД - SQL или NO SQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1401" y="907" width="281" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="KinI6GjtYEJDe6Mma5tV-31" value="сервис отправки сообщений" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2066" y="513.5" width="315.5" height="227" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
