@@ -205,7 +205,7 @@
           <mxGeometry x="-533" y="-578" width="104" height="76" as="geometry" />
         </mxCell>
         <mxCell id="9CYesGcOuSu4wshzyrnq-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1227" y="-855" width="50" height="41" as="geometry" />
+          <mxGeometry x="-1200" y="-914" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="9CYesGcOuSu4wshzyrnq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9CYesGcOuSu4wshzyrnq-6" target="9CYesGcOuSu4wshzyrnq-8">
           <mxGeometry relative="1" as="geometry" />
@@ -249,6 +249,12 @@
         </mxCell>
         <mxCell id="9CYesGcOuSu4wshzyrnq-33" value="http://api:8000" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-988.9982352941176" y="-562.9976470588234" width="104" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="9CYesGcOuSu4wshzyrnq-35" value="5050:5050" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1390.0011764705882" y="-760" width="85" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="9CYesGcOuSu4wshzyrnq-36" value="networks:&#xa;  docker_net:&#xa;    driver: bridge" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1136.995882352941" y="-920.0041176470588" width="111" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
