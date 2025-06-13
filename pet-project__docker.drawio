@@ -364,6 +364,9 @@
         <mxCell id="SbEg8wVMCn5PfAd3-9GL-3" value="10-15 тестов сделать" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="-889" y="-417" width="136" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="SbEg8wVMCn5PfAd3-9GL-4" value="pytest хорошо изучить" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-772" y="-617" width="142" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
