@@ -513,14 +513,14 @@
         <mxCell id="D2FJ4lYGYPujxIOzMC69-2" value="асинхронный код" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="-650" y="-345" width="114" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="D2FJ4lYGYPujxIOzMC69-4" value="добавить слой элементы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="-308" width="158" height="26" as="geometry" />
+        <mxCell id="D2FJ4lYGYPujxIOzMC69-4" value="добавить слой элементы (сейчас пока времени нет, затем отдельной папкой сделать)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-311" width="498" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D2FJ4lYGYPujxIOzMC69-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#FF3333,#446E2C);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="-657" y="-397" width="273" height="47" as="geometry" />
         </mxCell>
         <mxCell id="D2FJ4lYGYPujxIOzMC69-6" value="Пайтест нужно знать хорошо!!! это один из ключевых инструментов в тестировании" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-354" y="-301" width="485" height="26" as="geometry" />
+          <mxGeometry x="-348" y="-262" width="485" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
